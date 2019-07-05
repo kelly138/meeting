@@ -1,0 +1,1 @@
+// export const getMeetingRooms = state => state.menuItems
